@@ -6,5 +6,5 @@ export class UserEstonia extends UserBase{
 
     constructor(name: string, surname: string, age: number) {
         super(name, surname, age);
-    }
+    };
 }

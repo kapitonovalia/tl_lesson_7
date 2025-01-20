@@ -68,5 +68,5 @@ describe("KYC tests", () => {
         KYC.activateEParakstsForLatvia(youngLatvianUser);
         expect(youngLatvianUser.activateEParakstsForLatvia).toBeTruthy();
         expect(KYC.signForLatvia).toBeTruthy();
-    });
+    })
 })

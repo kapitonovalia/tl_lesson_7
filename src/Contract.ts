@@ -8,6 +8,5 @@ export class Contract {
     constructor(title: string) {
         this.title = title;
         this.signed = false;
-
     }
 }

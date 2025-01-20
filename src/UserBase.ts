@@ -7,5 +7,5 @@ export class UserBase {
         this.name = name;
         this.surname = surname;
         this.age = age;
-    }
+    };
 }
